@@ -4,10 +4,10 @@
   "description": "CommonJS adapter for Sveltekit",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tj-likes-coding/sveltekit-adapter-cjs"
+    "url": "https://github.com/tejasnayak25/sveltekit-adapter-cjs"
   },
   "license": "MIT",
-  "homepage": "https://github.com/tj-likes-coding/sveltekit-adapter-cjs",
+  "homepage": "https://github.com/tejasnayak25/sveltekit-adapter-cjs",
   "type": "module",
   "exports": {
     ".": {
