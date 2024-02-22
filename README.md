@@ -10,11 +10,11 @@ npm i sveltekit-adapter-cjs
 
 ## Docs
 
-[Docs](https://github.com/tj-likes-coding/sveltekit-adapter-cjs/wiki)
+[Docs](https://github.com/tejasnayak25/sveltekit-adapter-cjs/wiki)
 
 ## Changelog
 
-[The Changelog for this package is available on GitHub](https://github.com/tj-likes-coding/sveltekit-adapter-cjs/blob/main/CHANGELOG.md).
+[The Changelog for this package is available on GitHub](https://github.com/tejasnayak25/sveltekit-adapter-cjs/blob/main/CHANGELOG.md).
 
 ## License
 
